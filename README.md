@@ -1,7 +1,3 @@
-## Project info
-
-**URL**: https://lovable.dev/projects/260dc0bb-ea45-4004-8db4-5d874eac61a7
-
 # SentinelPay
 
 SentinelPay is a voice-first banking assistant prototype focused on preventing voice-based scams. It includes mock Supabase Edge Functions and frontend scaffolding for liveness checks, stress detection, scam phrase interruption, guardian flows, and explainable risk decisions.
